@@ -1,23 +1,14 @@
 ### Hiya! 👋
 
-I'm Andrew. Dad, husband, software consultant and a content creator too now, I guess! Living in Scotland.
+My most recent [writing](https://acairns.co.uk/)
+- [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
 
-I've built software since Turbo Pascal on an Amstrad - an old language no one remembers for an old computer no one used.
-
-I'm creating content for my [YouTube](https://youtube.com/@metaphoricallyspeaking) channel while also doing some consulting.
-
-Previously, I've held roles such as Staff Engineer and VP of Engineering. Worked at TransferGo building Compliance, Risk and Anti-money Laundering things.
-
-I spend my spare time kayaking and coaching youth football.
-
-That's enough about me: introduce yourself!
-
-## Socials
-
-- [Twitter](https://twitter.com/andrewcairns)
-- [Discord](https://acairns.co.uk/discord)
-- [YouTube](https://youtube.com/@metaphoricallyspeaking)
-- [LinkedIn](https://www.linkedin.com/in/andrewcairns/)
+My most recent [videos](https://youtube.com/@metaphoricallyspeaking)
+- [Composition over Inheritance](https://youtu.be/HNzP1aLAffM?si=UxWW9BqSLQ1UrT6f)
+- [What is a Command Bus?](https://youtu.be/pXVZhFE2pbk?si=ZbDkmUXndVeeEQB6)
+- [Dates and Times are HARD](https://youtu.be/Bscv_qYwXyg?si=JRtIGPmEer-WYJyN)
+- [Artisan Shortcuts are dangerous!](https://youtu.be/gCQRhXnpHqk?si=haiX7uAzi23_GVks)
+- [What are Transaction Boundaries?](https://youtu.be/y67hTtS37yw?si=YuNWSWrmFZl-tmkJ)
 
 <!--
 **acairns/acairns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
