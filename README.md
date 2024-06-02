@@ -1,6 +1,7 @@
 ### Hiya! 👋
 
 #### 📝 My most recent [writing](https://acairns.co.uk/)
+- [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 - [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
 
 #### 📺 My most recent [videos](https://youtube.com/@metaphoricallyspeaking)
