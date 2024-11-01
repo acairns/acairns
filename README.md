@@ -5,6 +5,7 @@
 - [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
 
 #### 📺 My most recent [videos](https://youtube.com/@metaphoricallyspeaking)
+- [Primitive Obsession](https://www.youtube.com/watch?v=gAtfx7SUoP0)
 - [Composition over Inheritance](https://youtu.be/HNzP1aLAffM?si=UxWW9BqSLQ1UrT6f)
 - [What is a Command Bus?](https://youtu.be/pXVZhFE2pbk?si=ZbDkmUXndVeeEQB6)
 - [Dates and Times are HARD](https://youtu.be/Bscv_qYwXyg?si=JRtIGPmEer-WYJyN)
