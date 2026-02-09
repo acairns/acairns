@@ -1,8 +1,10 @@
 ### Hiya! 👋
 
 #### 📝 My most recent [writing](https://acairns.co.uk/)
+- [Pipe Operator | PHP](https://acairns.co.uk/posts/php/pipe-operator)
 - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 - [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
+- [Accidental Intent Cancelling](https://acairns.co.uk/posts/accidental-intent-cancelling)
 
 #### 📺 My most recent [videos](https://youtube.com/@metaphoricallyspeaking)
 - [Primitive Obsession](https://www.youtube.com/watch?v=gAtfx7SUoP0)
