@@ -14,6 +14,10 @@
 - [Artisan Shortcuts are dangerous!](https://youtu.be/gCQRhXnpHqk?si=haiX7uAzi23_GVks)
 - [What are Transaction Boundaries?](https://youtu.be/y67hTtS37yw?si=YuNWSWrmFZl-tmkJ)
 
+#### My other projects
+- [HotGun](https://hotgun3d.com/)
+- [gridfinity.org](https://gridfinity.org/)
+
 <!--
 **acairns/acairns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
