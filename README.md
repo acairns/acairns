@@ -1,6 +1,17 @@
 ### Hiya! 👋
 
+I'm Andrew. A father, husband and software engineer living in Scotland.
+
+I've been building software since Turbo Pascal on an Amstrad - an old language no one remembers on an old computer no one used.
+
+I'm teaching software development concepts using metaphors on [YouTube](https://youtube.com/@metaphoricallyspeaking) and writing interactive and animated [articles](https://acairns.co.uk).
+
+My spare time is spent with family, kayaking, [3D printing](https://hotgun3d.com/), and coaching youth football.
+
+
 #### 📝 My most recent [writing](https://acairns.co.uk/)
+- [Evaluating our Test Pyramid]([https://acairns.co.uk/posts/cognitive-debt](https://acairns.co.uk/posts/evaluating-our-test-pyramid))
+- [Cognitive Debt](https://acairns.co.uk/posts/cognitive-debt)
 - [Pipe Operator | PHP](https://acairns.co.uk/posts/php/pipe-operator)
 - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 - [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
@@ -15,6 +26,7 @@
 - [What are Transaction Boundaries?](https://youtu.be/y67hTtS37yw?si=YuNWSWrmFZl-tmkJ)
 
 #### 🧱 My other projects
+- [MetaphoricallySpeaking](https://youtube.com/@metaphoricallyspeaking)
 - [HotGun](https://hotgun3d.com/)
 - [gridfinity.org](https://gridfinity.org/)
 
