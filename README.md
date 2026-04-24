@@ -12,21 +12,17 @@ My spare time is spent with family, kayaking, [3D printing](https://hotgun3d.com
 #### 📝 My most recent [writing](https://acairns.co.uk/)
 - [Evaluating our Test Pyramid]([https://acairns.co.uk/posts/cognitive-debt](https://acairns.co.uk/posts/evaluating-our-test-pyramid))
 - [Cognitive Debt](https://acairns.co.uk/posts/cognitive-debt)
-- [Pipe Operator | PHP](https://acairns.co.uk/posts/php/pipe-operator)
 - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 - [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
 - [Accidental Intent Cancelling](https://acairns.co.uk/posts/accidental-intent-cancelling)
 
 #### 📺 My most recent [videos](https://youtube.com/@metaphoricallyspeaking)
+- [Event Sourcing](https://www.youtube.com/watch?v=xPmQxYIi5fA&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
 - [Primitive Obsession](https://www.youtube.com/watch?v=gAtfx7SUoP0)
 - [Composition over Inheritance](https://youtu.be/HNzP1aLAffM?si=UxWW9BqSLQ1UrT6f)
-- [What is a Command Bus?](https://youtu.be/pXVZhFE2pbk?si=ZbDkmUXndVeeEQB6)
-- [Dates and Times are HARD](https://youtu.be/Bscv_qYwXyg?si=JRtIGPmEer-WYJyN)
-- [Artisan Shortcuts are dangerous!](https://youtu.be/gCQRhXnpHqk?si=haiX7uAzi23_GVks)
-- [What are Transaction Boundaries?](https://youtu.be/y67hTtS37yw?si=YuNWSWrmFZl-tmkJ)
 
 #### 🧱 My other projects
-- [MetaphoricallySpeaking](https://youtube.com/@metaphoricallyspeaking)
+- [Metaphorically Speaking](https://youtube.com/@metaphoricallyspeaking)
 - [HotGun](https://hotgun3d.com/)
 - [gridfinity.org](https://gridfinity.org/)
 
