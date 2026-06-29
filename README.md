@@ -10,7 +10,7 @@ My spare time is spent with family, kayaking, [3D printing](https://hotgun3d.com
 
 
 #### 📝 My most recent [writing](https://acairns.co.uk/)
-- [Evaluating our Test Pyramid]([https://acairns.co.uk/posts/cognitive-debt](https://acairns.co.uk/posts/evaluating-our-test-pyramid))
+- [Evaluating our Test Pyramid](https://acairns.co.uk/posts/evaluating-our-test-pyramid)
 - [Cognitive Debt](https://acairns.co.uk/posts/cognitive-debt)
 - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 - [Composition over Inheritance](https://acairns.co.uk/posts/composition-over-inheritance)
